@@ -1,6 +1,6 @@
 {
-    "name": "mob_project",
-    "short_name": "mob_project",
+    "name": "soccerbet",
+    "short_name": "soccerbet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

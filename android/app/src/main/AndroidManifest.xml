@@ -1,7 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mob_project">
-   <application
-        android:label="mob_project"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:label="soccerbet"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
